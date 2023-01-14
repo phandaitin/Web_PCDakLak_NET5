@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApp", "webApp\webApp.csproj", "{D948D8BA-5337-4127-880C-C2E5C401822C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiApp", "..\..\WEB_PCDAKLAK_old\ApiApp_OK\ApiApp.csproj", "{A39D1C75-0213-4D53-BB8C-928FF5BB0E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminApp", "AdminApp\AdminApp.csproj", "{6BE38ABB-C71C-46AB-AABB-E555A9B56686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D948D8BA-5337-4127-880C-C2E5C401822C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D948D8BA-5337-4127-880C-C2E5C401822C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D948D8BA-5337-4127-880C-C2E5C401822C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D948D8BA-5337-4127-880C-C2E5C401822C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39D1C75-0213-4D53-BB8C-928FF5BB0E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39D1C75-0213-4D53-BB8C-928FF5BB0E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39D1C75-0213-4D53-BB8C-928FF5BB0E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39D1C75-0213-4D53-BB8C-928FF5BB0E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE38ABB-C71C-46AB-AABB-E555A9B56686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE38ABB-C71C-46AB-AABB-E555A9B56686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE38ABB-C71C-46AB-AABB-E555A9B56686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE38ABB-C71C-46AB-AABB-E555A9B56686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804B5316-6533-4A94-A0AA-52C5A5D68EC4}
+	EndGlobalSection
+EndGlobal
